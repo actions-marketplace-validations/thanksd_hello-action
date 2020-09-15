@@ -16,6 +16,8 @@ The time we greeted you.
 
 ## Example usage
 
+```yaml
 uses: actions/hello-action@v1.1
 with:
   who-to-greet: 'Brian' 
+```
