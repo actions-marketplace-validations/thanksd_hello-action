@@ -1,4 +1,4 @@
-# @thanksd/hello-action
+# thanksd/hello-action
 
 Simple GitHub Action package for learning
 
