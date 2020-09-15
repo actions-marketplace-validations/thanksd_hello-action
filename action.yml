@@ -1,4 +1,7 @@
 name: 'Hello There'
+branding: 
+  color: 'blue'
+  icon: 'phone-call'
 description: 'Greet somone and record the time'
 inputs:
   who-to-greet: # id of input
